@@ -1,0 +1,4 @@
+data/*
+!data/sample_real_8_listens/
+output/
+__pycache__/
